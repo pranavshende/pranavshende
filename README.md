@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+and+ML+Research+Enthusiast;Tech+Nerd;Building+Future+Technology"/>
 </p>
 
