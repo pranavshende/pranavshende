@@ -89,6 +89,14 @@ Machine learning based forecasting system analyzing solar capacity growth using 
 
 Autonomous multi-agent system with planner–executor–critic architecture designed to automate enterprise workflows.
 
+### Railway Management System
+
+Enterprise-scale system handling ticket booking, train scheduling, passenger management, staff management, and analytics.
+
+### Real-Time Driving License Trial System
+
+AI-assisted driving test platform using live monitoring, simulators, and automated evaluation.
+
 ### Department Inventory Management System
 
 C++ based inventory system for managing laboratory equipment and departmental assets.
