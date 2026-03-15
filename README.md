@@ -1,13 +1,9 @@
-<!-- Anime / Cyberpunk Banner -->
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PRANAV%20SHENDE&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">PRANAV SHENDE</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%7C+ML+Research+Enthusiast;Tech+Nerd;Building+Future+Technology"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+and+ML+Research+Enthusiast;Tech+Nerd;Building+Future+Technology"/>
 </p>
 
 <p align="center">
@@ -16,31 +12,49 @@
 
 ---
 
-## SYSTEM PROFILE
+# TERMINAL PROFILE
 
-```yaml
-Name: Pranav Shende
-Role: Full Stack Developer
-Focus: AI Systems | Intelligent Platforms | Scalable Web Apps
-University: SVPCET Nagpur
-Primary Stack: MERN
-Interest Areas:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Engineering
-  - Distributed Systems
-  - Cloud Infrastructure
-Mission: Engineer technology that solves real-world problems
+```bash
+> booting developer profile...
+
+Name        : Pranav Shende
+Role        : Full Stack Developer
+University  : SVPCET Nagpur
+Specialty   : MERN Stack | AI | Machine Learning
+Status      : Building intelligent technology systems
+Focus       : Scalable platforms and data-driven applications
 ```
 
 ---
 
-## TECHNOLOGY STACK
-
-### Core Development
+# PREFERRED LANGUAGES
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,mongodb,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java&perline=2"/>
+</p>
+
+---
+
+# PROGRAMMING LANGUAGES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
+</p>
+
+---
+
+# TECHNOLOGY STACK
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
 ### Artificial Intelligence & Data
@@ -49,47 +63,43 @@ Mission: Engineer technology that solves real-world problems
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter"/>
 </p>
 
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-</p>
-
 ### DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,googlecloud,aws"/>
-</p>
-
-### Systems Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,googlecloud,aws"/>
 </p>
 
 ---
 
-## PROJECTS
+# PROJECT ARCHIVE
 
 ### KrishiMitra
 
-AI-powered smart farming ecosystem integrating IoT automation, crop recommendations, and disease detection.
+AI-powered smart farming ecosystem integrating IoT irrigation automation, crop recommendations, and disease detection.
 
-### Hoppin
+### Hoppin Ride Sharing Platform
 
-Peer-to-peer ride sharing system designed for college campuses with real-time booking and payment features.
+Peer-to-peer ride sharing platform designed for college students with booking system, wallet payments, and route matching.
 
-### Solar Sales Forecasting
+### Solar Sales Forecasting System
 
-Machine learning forecasting pipeline analyzing solar capacity expansion trends using government datasets.
+Machine learning based forecasting system analyzing solar capacity growth using government datasets.
 
-### Agentic AI Platform
+### Agentic AI Services Platform
 
-Autonomous multi-agent workflow system with planner–executor–critic architecture for enterprise automation.
+Autonomous multi-agent system with planner–executor–critic architecture designed to automate enterprise workflows.
+
+### Department Inventory Management System
+
+C++ based inventory system for managing laboratory equipment and departmental assets.
+
+### AI DIY Project Generator
+
+AI-powered system that generates personalized DIY projects based on concept prompts or lecture topics.
 
 ---
 
-## GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <p align="center">
 
@@ -103,7 +113,15 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-## NETWORK
+# GITHUB TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pranavshende&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# CONNECT
 
 <p align="center">
 
@@ -127,7 +145,7 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-## DEVELOPMENT LOOP
+# DEVELOPMENT LOOP
 
 ```python
 while alive:
@@ -139,6 +157,6 @@ while alive:
 
 ---
 
-
-
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
