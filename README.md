@@ -1,3 +1,9 @@
+<!-- Anime / Cyberpunk Banner -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
 <h1 align="center">PRANAV SHENDE</h1>
 
 <p align="center">
@@ -15,9 +21,15 @@
 ```yaml
 Name: Pranav Shende
 Role: Full Stack Developer
-Specialization: MERN Stack | AI | Machine Learning
+Focus: AI Systems | Intelligent Platforms | Scalable Web Apps
 University: SVPCET Nagpur
-Status: Building scalable intelligent systems
+Primary Stack: MERN
+Interest Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Engineering
+  - Distributed Systems
+  - Cloud Infrastructure
 Mission: Engineer technology that solves real-world problems
 ```
 
@@ -25,8 +37,34 @@ Mission: Engineer technology that solves real-world problems
 
 ## TECHNOLOGY STACK
 
+### Core Development
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,python,tensorflow,c,postgres,git,github,docker,googlecloud,linux"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,mongodb,html,css"/>
+</p>
+
+### Artificial Intelligence & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter"/>
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+</p>
+
+### DevOps & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,googlecloud,aws"/>
+</p>
+
+### Systems Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp"/>
 </p>
 
 ---
@@ -65,14 +103,6 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-## CONTRIBUTION GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavshende&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## NETWORK
 
 <p align="center">
@@ -102,13 +132,19 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 ```python
 while alive:
     build_projects()
+    explore_ai()
     learn_new_technologies()
     solve_real_world_problems()
-    innovate()
 ```
 
 ---
 
+## SYSTEM VISUAL
+
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzM3ltbGd3b2lrbGQ3Z2V2Z3B2N3U3eGVqOGZ3Z3E5Y2g2Z3M3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+Engineering intelligent systems and building scalable technology platforms.
 </p>
