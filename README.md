@@ -1,6 +1,10 @@
+<!-- Anime / Cyberpunk Banner -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=PRANAV%20SHENDE&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
+
+<h1 align="center">PRANAV SHENDE</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%7C+ML+Research+Enthusiast;Tech+Nerd;Building+Future+Technology"/>
@@ -17,46 +21,26 @@
 ```yaml
 Name: Pranav Shende
 Role: Full Stack Developer
+Focus: AI Systems | Intelligent Platforms | Scalable Web Apps
 University: SVPCET Nagpur
-Specialization: MERN Stack | Artificial Intelligence | Machine Learning
-Focus Areas:
-  - Intelligent Systems
-  - AI Platforms
-  - Scalable Web Applications
-  - Data Driven Systems
-Mission: Build technology that solves real world problems
+Primary Stack: MERN
+Interest Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Engineering
+  - Distributed Systems
+  - Cloud Infrastructure
+Mission: Engineer technology that solves real-world problems
 ```
 
 ---
 
-# PREFERRED LANGUAGES
+## TECHNOLOGY STACK
+
+### Core Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java"/>
-</p>
-
----
-
-# PROGRAMMING LANGUAGES
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
-</p>
-
----
-
-# TECHNOLOGY STACK
-
-### Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,mongodb,html,css"/>
 </p>
 
 ### Artificial Intelligence & Data
@@ -65,51 +49,47 @@ Mission: Build technology that solves real world problems
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter"/>
 </p>
 
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
+</p>
+
 ### DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,googlecloud,aws"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,googlecloud,aws"/>
+</p>
+
+### Systems Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp"/>
 </p>
 
 ---
 
-# PROJECT ARCHIVE
+## PROJECTS
 
 ### KrishiMitra
 
-AI-powered smart farming ecosystem integrating IoT irrigation automation, crop recommendations, and disease detection.
+AI-powered smart farming ecosystem integrating IoT automation, crop recommendations, and disease detection.
 
-### Hoppin Ride Sharing Platform
+### Hoppin
 
-Peer-to-peer ride sharing platform designed for college students with booking system, wallet payments, and route matching.
+Peer-to-peer ride sharing system designed for college campuses with real-time booking and payment features.
 
-### Solar Sales Forecasting System
+### Solar Sales Forecasting
 
-Machine learning based forecasting system analyzing solar capacity growth using government datasets.
+Machine learning forecasting pipeline analyzing solar capacity expansion trends using government datasets.
 
-### Agentic AI Services Platform
+### Agentic AI Platform
 
-Autonomous multi-agent system with planner–executor–critic architecture designed to automate enterprise workflows.
-
-### Railway Management System
-
-Enterprise-scale system handling ticket booking, train scheduling, passenger management, staff management, and analytics.
-
-### Real-Time Driving License Trial System
-
-AI-assisted driving test platform using live monitoring, simulators, and automated evaluation.
-
-### Department Inventory Management System
-
-C++ based inventory system for managing laboratory equipment and departmental assets.
-
-### AI DIY Project Generator
-
-AI-powered system that generates personalized DIY projects based on concept prompts or lecture topics.
+Autonomous multi-agent workflow system with planner–executor–critic architecture for enterprise automation.
 
 ---
 
-# GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <p align="center">
 
@@ -123,7 +103,7 @@ AI-powered system that generates personalized DIY projects based on concept prom
 
 ---
 
-# NETWORK
+## NETWORK
 
 <p align="center">
 
@@ -147,7 +127,7 @@ AI-powered system that generates personalized DIY projects based on concept prom
 
 ---
 
-# DEVELOPMENT LOOP
+## DEVELOPMENT LOOP
 
 ```python
 while alive:
@@ -159,6 +139,12 @@ while alive:
 
 ---
 
+## SYSTEM VISUAL
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzM3ltbGd3b2lrbGQ3Z2V2Z3B2N3U3eGVqOGZ3Z3E5Y2g2Z3M3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+Engineering intelligent systems and building scalable technology platforms.
 </p>
