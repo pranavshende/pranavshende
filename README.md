@@ -1,7 +1,7 @@
-<h1 align="center">⚡ PRANAV SHENDE ⚡</h1>
+<h1 align="center">PRANAV SHENDE</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%7C+ML+Research+Enthusiast;Hackathon+Winner;Building+Future+Tech+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+%7C+ML+Research+Enthusiast;Tech+Nerd;Building+Future+Technology"/>
 </p>
 
 <p align="center">
@@ -10,12 +10,12 @@
 
 ---
 
-# 🧠 SYSTEM PROFILE
+## SYSTEM PROFILE
 
 ```yaml
 Name: Pranav Shende
 Role: Full Stack Developer
-Specialization: MERN Stack | AI | ML | Data Systems
+Specialization: MERN Stack | AI | Machine Learning
 University: SVPCET Nagpur
 Status: Building scalable intelligent systems
 Mission: Engineer technology that solves real-world problems
@@ -23,7 +23,7 @@ Mission: Engineer technology that solves real-world problems
 
 ---
 
-# ⚡ TECHNOLOGY ARSENAL
+## TECHNOLOGY STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,mongodb,python,tensorflow,c,postgres,git,github,docker,googlecloud,linux"/>
@@ -31,27 +31,27 @@ Mission: Engineer technology that solves real-world problems
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## PROJECTS
 
-### 🌾 KrishiMitra
+### KrishiMitra
 
 AI-powered smart farming ecosystem integrating IoT automation, crop recommendations, and disease detection.
 
-### 🚲 Hoppin
+### Hoppin
 
 Peer-to-peer ride sharing system designed for college campuses with real-time booking and payment features.
 
-### ☀ Solar Sales Forecasting
+### Solar Sales Forecasting
 
 Machine learning forecasting pipeline analyzing solar capacity expansion trends using government datasets.
 
-### 🤖 Agentic AI Platform
+### Agentic AI Platform
 
 Autonomous multi-agent workflow system with planner–executor–critic architecture for enterprise automation.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <p align="center">
 
@@ -65,7 +65,7 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
+## CONTRIBUTION GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavshende&theme=tokyo-night&hide_border=true"/>
@@ -73,23 +73,23 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-# 🌐 NETWORK INTERFACE
+## NETWORK
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/prnvvv/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:pranavshende97@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="https://www.instagram.com/prnvvv_._?igsh=MWd4N20wcDhsamF3dw==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/449494469549752320">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
@@ -97,7 +97,7 @@ Autonomous multi-agent workflow system with planner–executor–critic architec
 
 ---
 
-# 🧬 DEVELOPMENT LOOP
+## DEVELOPMENT LOOP
 
 ```python
 while alive:
@@ -110,9 +110,5 @@ while alive:
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-⚡ Engineering the Future with Code ⚡
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
 </p>
