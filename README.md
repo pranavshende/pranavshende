@@ -139,12 +139,6 @@ while alive:
 
 ---
 
-## SYSTEM VISUAL
 
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJzM3ltbGd3b2lrbGQ3Z2V2Z3B2N3U3eGVqOGZ3Z3E5Y2g2Z3M3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
 
-<p align="center">
-Engineering intelligent systems and building scalable technology platforms.
-</p>
+
