@@ -84,15 +84,6 @@ Focus       : Scalable platforms and data-driven applications
 
 </p>
 
----
-
-# GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavshende&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
 
 # CONNECT
 
