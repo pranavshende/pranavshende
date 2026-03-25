@@ -116,42 +116,6 @@ Focus       : Scalable platforms and data-driven applications
 
 </p>
 
----
-# PROJECT ARCHIVE
-
-### KrishiMitra
-
-AI-powered smart farming ecosystem integrating IoT irrigation automation, crop recommendations, and disease detection.
-
-### Hoppin Ride Sharing Platform
-
-Peer-to-peer ride sharing platform designed for college students with booking system, wallet payments, and route matching.
-
-### Solar Sales Forecasting System
-
-Machine learning based forecasting system analyzing solar capacity growth using government datasets.
-
-### Agentic AI Services Platform
-
-Autonomous multi-agent system with planner–executor–critic architecture designed to automate enterprise workflows.
-
-### Railway Management System
-
-Enterprise-scale system handling ticket booking, train scheduling, passenger management, staff management, and analytics.
-
-### Real-Time Driving License Trial System
-
-AI-assisted driving test platform using live monitoring, simulators, and automated evaluation.
-
-### Department Inventory Management System
-
-C++ based inventory system for managing laboratory equipment and departmental assets.
-
-### AI DIY Project Generator
-
-AI-powered system that generates personalized DIY projects based on concept prompts or lecture topics.
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
