@@ -55,7 +55,6 @@ I'm a **Full-Stack Developer** passionate about building technology that solves 
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
 ![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=D4AF37)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=D4AF37)
-![Dart](https://img.shields.io/badge/Dart-1a1a2e?style=for-the-badge&logo=dart&logoColor=D4AF37)
 
 **Frontend & Mobile**
 
@@ -81,18 +80,10 @@ I'm a **Full-Stack Developer** passionate about building technology that solves 
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=D4AF37)
 ![GCP](https://img.shields.io/badge/GCP-1a1a2e?style=for-the-badge&logo=googlecloud&logoColor=D4AF37)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=D4AF37)
 ![NGINX](https://img.shields.io/badge/Nginx-1a1a2e?style=for-the-badge&logo=nginx&logoColor=D4AF37)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=D4AF37)
-
-**Tools & Design**
-
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=D4AF37)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=D4AF37)
-![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=D4AF37)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
 
 </div>
 
@@ -106,7 +97,7 @@ I'm a **Full-Stack Developer** passionate about building technology that solves 
 |:-------:|:-----------:|:-----:|
 | 🐄 **PashuRakshak** | Edge-first mobile app for Lumpy Skin Disease detection in cattle using on-device ML inference | `React Native` `TFLite` `MobileNetV2` `Node.js` `PostgreSQL` |
 | 🌾 **AgriScore** | Agricultural credit scoring + carbon credit integration platform with geospatial analysis | `MERN` `Python` `PostGIS` `Prisma` `Feast` |
-| 📱 **Jan Sampark** | Public service management app for constituency office — appointments, complaints, works tracking | `Flutter` `Supabase` `FCM` `PostgreSQL` `Google OAuth` |
+| 📱 **Jan Sampark** | Public service management app for constituency office — appointments, complaints, works tracking | `React Native(Expo)` `Supabase` `FCM` `PostgreSQL` `Google OAuth` |
 
 </div>
 
@@ -138,13 +129,6 @@ I'm a **Full-Stack Developer** passionate about building technology that solves 
 
 ---
 
-## 〔 Dev Quote 〕
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
 
 ---
 
