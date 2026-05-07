@@ -107,13 +107,9 @@ I'm a **Full-Stack Developer** passionate about building technology that solves 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=pranavshende&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=D4AF37&text_color=e8e8e8&icon_color=D4AF37"/>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranavshende&theme=nord&hide_border=true&layout=compact&bg_color=0d1117&title_color=D4AF37&text_color=e8e8e8"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=pranavshende&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=e8e8e8&dates=888888"/>
 
 </div>
 
