@@ -28,51 +28,46 @@
 
 <br><br>
 
-```text
-              @%%%%%%%%%%%%@
-            ##%%%%@@@@@@%%%@@@
-           -+*##@@@@@%#*++*%@@%
-          *=***%@%#*+=--::::*@@
-           @#**+-+===--==+=--*%
-            ==::+*#*++++*#*+-==
-           *==..==+++-:--==--:-*
-            =-..-==****+==++---*
-             *+:+**#*+=--=++--
-               +=**=====-::-=#
-                -***+++======
-              %*.+####*+==-:+=%@
-          @@@@@#.::=++=-::-+-.*+%@@
-     @@@@@@@@@@%-....--:-=+: -@-*@%%@@@@@
-@@@@@@@@@@@@@@@@#:.:**==+**..%@:+%%%@%%@@%%%
-@@@@@@@@@@@@@@@@@+.-=+#@%%*:=@*.=%%%%%@@@@%%
-@@@@@@@@@@@@@@@@@@=...:*@%..@@-:*@%%%%@@%%%%
-@@@@@@@@@@@@@@@@@@%:.:-%%#++@*.-%@%%%@@%%%%%
-@@@@@@@@@@@@@@@@@@@#.-+%*%%@@:.*@%%%@@%%%%%%
-@@@@@@@@@@@@@@@@@@%%@+:*%%##%* -%%%%%@%#*+*%%
-```
-</div>
+### `pranav@shende`
 
-<div align="center">
-```text
-pranav@shende --------------------------------------
-OS:                         Windows 11, Linux
-Uptime:                     Full-Stack Dev, AI Researcher
-Host:                       Nagpur, Maharashtra, India
-Kernel:                     B.Tech IT · SVPCET (2027)
-IDE:                        VSCode, Android Studio
+<table>
+<tr>
 
-Languages_Programming:      Python, JS, Java, C++, C
-Languages_Web:              React, Tailwind, HTML, CSS
-Frameworks_Mobile:          React Native, Expo, Flutter
-Databases:                  PostgreSQL, MongoDB, Supabase
-Focus_AI:                   Edge AI, Computer Vision, ML
-Cloud_DevOps:               GCP, Firebase, Docker, NGINX
+<td valign="top" width="33%">
 
-Contact --------------------------------------------
-Email_Personal:             pranavshende97@gmail.com
-Portfolio:                  pranavshende.online
-LinkedIn:                   linkedin.com/in/prnvvv
-```
+### 👨‍💻 PROFILE
+**OS:** Windows 11, Linux<br>
+**Uptime:** Full-Stack Dev, AI Researcher<br>
+**Host:** Nagpur, Maharashtra, India<br>
+**Kernel:** B.Tech IT · SVPCET (2027)<br>
+**IDE:** VSCode, Android Studio
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛠️ TECH STACK
+**Programming:** Python, JS, Java, C++, C<br>
+**Web:** React, Tailwind, HTML, CSS<br>
+**Mobile:** React Native, Expo, Flutter<br>
+**Databases:** PostgreSQL, MongoDB, Supabase<br>
+**AI:** Edge AI, Computer Vision, ML<br>
+**DevOps:** GCP, Firebase, Docker, NGINX
+
+</td>
+
+<td valign="top" width="33%">
+
+### 📬 CONTACT
+**Email:** [pranavshende97@gmail.com](mailto:pranavshende97@gmail.com)<br>
+**Portfolio:** [pranavshende.online](https://pranavshende.online)<br>
+**LinkedIn:** [linkedin.com/in/prnvvv](https://linkedin.com/in/prnvvv)
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
