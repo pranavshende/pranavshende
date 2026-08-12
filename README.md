@@ -29,26 +29,49 @@
 <br><br>
 
 ```text
-              @%%%%%%%%%%%%@                   pranav@shende --------------------------------------
-            ##%%%%@@@@@@%%%@@@                 OS:                         Windows 11, Linux
-           -+*##@@@@@%#*++*%@@%                Uptime:                     Full-Stack Dev, AI Researcher
-          *=***%@%#*+=--::::*@@                Host:                       Nagpur, Maharashtra, India
-           @#**+-+===--==+=--*%                Kernel:                     B.Tech IT · SVPCET (2027)
-            ==::+*#*++++*#*+-==                IDE:                        VSCode, Android Studio
-           *==..==+++-:--==--:-*               
-            =-..-==****+==++---*               Languages_Programming:      Python, JS, Java, C++, C
-             *+:+**#*+=--=++--                 Languages_Web:              React, Tailwind, HTML, CSS
-               +=**=====-::-=#                 Frameworks_Mobile:          React Native, Expo, Flutter
-                -***+++======                  Databases:                  PostgreSQL, MongoDB, Supabase
-              %*.+####*+==-:+=%@               Focus_AI:                   Edge AI, Computer Vision, ML
-          @@@@@#.::=++=-::-+-.*+%@@            Cloud_DevOps:               GCP, Firebase, Docker, NGINX
-     @@@@@@@@@@%-....--:-=+: -@-*@%%@@@@@      
-@@@@@@@@@@@@@@@@#:.:**==+**..%@:+%%%@%%@@%%%   Contact --------------------------------------------
-@@@@@@@@@@@@@@@@@+.-=+#@%%*:=@*.=%%%%%@@@@%%   Email_Personal:             pranavshende97@gmail.com
-@@@@@@@@@@@@@@@@@@=...:*@%..@@-:*@%%%%@@%%%%   Portfolio:                  pranavshende.online
-@@@@@@@@@@@@@@@@@@%:.:-%%#++@*.-%@%%%@@%%%%%   LinkedIn:                   linkedin.com/in/prnvvv
+              @%%%%%%%%%%%%@
+            ##%%%%@@@@@@%%%@@@
+           -+*##@@@@@%#*++*%@@%
+          *=***%@%#*+=--::::*@@
+           @#**+-+===--==+=--*%
+            ==::+*#*++++*#*+-==
+           *==..==+++-:--==--:-*
+            =-..-==****+==++---*
+             *+:+**#*+=--=++--
+               +=**=====-::-=#
+                -***+++======
+              %*.+####*+==-:+=%@
+          @@@@@#.::=++=-::-+-.*+%@@
+     @@@@@@@@@@%-....--:-=+: -@-*@%%@@@@@
+@@@@@@@@@@@@@@@@#:.:**==+**..%@:+%%%@%%@@%%%
+@@@@@@@@@@@@@@@@@+.-=+#@%%*:=@*.=%%%%%@@@@%%
+@@@@@@@@@@@@@@@@@@=...:*@%..@@-:*@%%%%@@%%%%
+@@@@@@@@@@@@@@@@@@%:.:-%%#++@*.-%@%%%@@%%%%%
 @@@@@@@@@@@@@@@@@@@#.-+%*%%@@:.*@%%%@@%%%%%%
 @@@@@@@@@@@@@@@@@@%%@+:*%%##%* -%%%%%@%#*+*%%
+```
+</div>
+
+<div align="center">
+```text
+pranav@shende --------------------------------------
+OS:                         Windows 11, Linux
+Uptime:                     Full-Stack Dev, AI Researcher
+Host:                       Nagpur, Maharashtra, India
+Kernel:                     B.Tech IT · SVPCET (2027)
+IDE:                        VSCode, Android Studio
+
+Languages_Programming:      Python, JS, Java, C++, C
+Languages_Web:              React, Tailwind, HTML, CSS
+Frameworks_Mobile:          React Native, Expo, Flutter
+Databases:                  PostgreSQL, MongoDB, Supabase
+Focus_AI:                   Edge AI, Computer Vision, ML
+Cloud_DevOps:               GCP, Firebase, Docker, NGINX
+
+Contact --------------------------------------------
+Email_Personal:             pranavshende97@gmail.com
+Portfolio:                  pranavshende.online
+LinkedIn:                   linkedin.com/in/prnvvv
 ```
 </div>
 
